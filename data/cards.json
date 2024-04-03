@@ -1,0 +1,38 @@
+[
+  {
+      "image": "images/barcelona.jpg",
+      "name": "barcelona"
+  },
+  {
+      "image": "images/bayernmunich.jpg",
+      "name": "bayernmunich"
+  },
+  {
+      "image": "images/dortmund.png",
+      "name": "dortmund"
+  },
+  {
+      "image": "images/juventus.png",
+      "name": "juventus"
+  },
+  {
+      "image": "images/liverpool.jpg",
+      "name": "liverpool"
+  },
+  {
+      "image": "images/manynt.jpg",
+      "name": "manynt"
+  },
+  {
+      "image": "images/milan.png",
+      "name": "milan"
+  },
+  {
+      "image": "images/psg.png",
+      "name": "psg"
+  },
+  {
+    "image": "images/realmadrid.jpg",
+    "name": "realmadrid"
+}
+]
